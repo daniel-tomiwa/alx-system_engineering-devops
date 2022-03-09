@@ -1,1 +1,1 @@
-Working on ALX shell variables expansions tasks
+This directory contains the expansion scripts exe.
